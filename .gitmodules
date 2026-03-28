@@ -1,0 +1,12 @@
+[submodule "mail-analyzer"]
+	path = mail-analyzer
+	url = https://github.com/nlink-jp/mail-analyzer.git
+[submodule "magi-system"]
+	path = magi-system
+	url = https://github.com/nlink-jp/magi-system.git
+[submodule "sai"]
+	path = sai
+	url = https://github.com/nlink-jp/sai.git
+[submodule "slack-monitor"]
+	path = slack-monitor
+	url = https://github.com/nlink-jp/slack-monitor.git
