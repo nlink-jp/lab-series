@@ -10,3 +10,6 @@
 [submodule "slack-monitor"]
 	path = slack-monitor
 	url = https://github.com/nlink-jp/slack-monitor.git
+[submodule "llm-othello"]
+	path = llm-othello
+	url = https://github.com/nlink-jp/llm-othello.git

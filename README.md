@@ -8,6 +8,7 @@ Experimental projects under active development by [nlink-jp](https://github.com/
 
 | Project | Description | Language |
 |---|---|---|
+| [llm-othello](https://github.com/nlink-jp/llm-othello) | Browser-based Othello against a local LLM — server-side move generation via OpenAI-compatible API | Go |
 | [mail-analyzer](https://github.com/nlink-jp/mail-analyzer) | Mail analysis tool | Go |
 | [magi-system](https://github.com/nlink-jp/magi-system) | Multi-agent discussion system with 3 AI personas (MELCHIOR / BALTHASAR / CASPER) | Python |
 | [sai](https://github.com/nlink-jp/sai) | Context-aware Slack bot with RAG memory and natural language command execution | Python |
