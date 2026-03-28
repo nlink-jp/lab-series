@@ -13,3 +13,6 @@
 [submodule "llm-othello"]
 	path = llm-othello
 	url = https://github.com/nlink-jp/llm-othello.git
+[submodule "log-analyzer"]
+	path = log-analyzer
+	url = https://github.com/nlink-jp/log-analyzer.git
