@@ -13,6 +13,7 @@ Experimental projects under active development by [nlink-jp](https://github.com/
 | [magi-system](https://github.com/nlink-jp/magi-system) | Multi-agent discussion system with 3 AI personas (MELCHIOR / BALTHASAR / CASPER) | Python |
 | [sai](https://github.com/nlink-jp/sai) | Context-aware Slack bot with RAG memory and natural language command execution | Python |
 | [slack-monitor](https://github.com/nlink-jp/slack-monitor) | Real-time Slack channel summarizer with local/cloud LLM and Textual TUI | Python |
+| [workflow-builder](https://github.com/nlink-jp/workflow-builder) | LLM-powered workflow builder — generates shell scripts from natural language using CLI tool registry | Design phase |
 
 ## Related Series
 

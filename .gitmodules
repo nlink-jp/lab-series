@@ -16,3 +16,6 @@
 [submodule "log-analyzer"]
 	path = log-analyzer
 	url = https://github.com/nlink-jp/log-analyzer.git
+[submodule "workflow-builder"]
+	path = workflow-builder
+	url = https://github.com/nlink-jp/workflow-builder.git
