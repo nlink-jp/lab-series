@@ -19,3 +19,6 @@
 [submodule "workflow-builder"]
 	path = workflow-builder
 	url = https://github.com/nlink-jp/workflow-builder.git
+[submodule "magi-system2"]
+	path = magi-system2
+	url = https://github.com/nlink-jp/magi-system2.git

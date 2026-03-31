@@ -19,7 +19,8 @@ lab-series/
 ├── llm-othello/   github.com/nlink-jp/llm-othello   (Go — Othello vs local LLM)
 ├── log-analyzer/  github.com/nlink-jp/log-analyzer   (Go — log analysis tool)
 ├── mail-analyzer/ github.com/nlink-jp/mail-analyzer  (Go — mail analysis)
-├── magi-system/   github.com/nlink-jp/magi-system    (Python — multi-agent discussion)
+├── magi-system/   github.com/nlink-jp/magi-system    (Python — multi-agent discussion v1)
+├── magi-system2/  github.com/nlink-jp/magi-system2   (Python — multi-persona discussion v2, Gemini)
 ├── sai/           github.com/nlink-jp/sai             (Python — context-aware Slack bot)
 └── slack-monitor/ github.com/nlink-jp/slack-monitor  (Python — Slack channel summarizer)
 ```
