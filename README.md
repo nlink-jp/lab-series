@@ -14,6 +14,7 @@ Experimental projects under active development by [nlink-jp](https://github.com/
 | [magi-system2](https://github.com/nlink-jp/magi-system2) | Multi-persona AI discussion with dynamic persona generation, dual memory, and adaptive facilitation via Gemini | Python |
 | [sai](https://github.com/nlink-jp/sai) | Context-aware Slack bot with RAG memory and natural language command execution | Python |
 | [slack-monitor](https://github.com/nlink-jp/slack-monitor) | Real-time Slack channel summarizer with local/cloud LLM and Textual TUI | Python |
+| [virtual-reviewer](https://github.com/nlink-jp/virtual-reviewer) | AI-powered security review system with LLM expert models — no RAG, UNIX philosophy | Python |
 | [workflow-builder](https://github.com/nlink-jp/workflow-builder) | LLM-powered workflow builder — generates shell scripts from natural language using CLI tool registry | Design phase |
 
 ## Related Series

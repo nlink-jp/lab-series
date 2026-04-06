@@ -22,3 +22,6 @@
 [submodule "magi-system2"]
 	path = magi-system2
 	url = https://github.com/nlink-jp/magi-system2.git
+[submodule "virtual-reviewer"]
+	path = virtual-reviewer
+	url = https://github.com/nlink-jp/virtual-reviewer.git
