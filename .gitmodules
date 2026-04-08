@@ -1,6 +1,3 @@
-[submodule "mail-analyzer"]
-	path = mail-analyzer
-	url = https://github.com/nlink-jp/mail-analyzer.git
 [submodule "magi-system"]
 	path = magi-system
 	url = https://github.com/nlink-jp/magi-system.git
