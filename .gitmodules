@@ -31,3 +31,6 @@
 [submodule "agent-skeleton"]
 	path = agent-skeleton
 	url = https://github.com/nlink-jp/agent-skeleton.git
+[submodule "mcp-skeleton"]
+	path = mcp-skeleton
+	url = https://github.com/nlink-jp/mcp-skeleton.git
