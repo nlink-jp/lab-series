@@ -30,4 +30,4 @@
 	url = https://github.com/nlink-jp/mail-watcher.git
 [submodule "agent-skeleton"]
 	path = agent-skeleton
-	url = git@github.com:nlink-jp/agent-skeleton.git
+	url = https://github.com/nlink-jp/agent-skeleton.git
