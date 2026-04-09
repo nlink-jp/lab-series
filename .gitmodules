@@ -25,3 +25,6 @@
 [submodule "meeting-note"]
 	path = meeting-note
 	url = https://github.com/nlink-jp/meeting-note.git
+[submodule "mail-watcher"]
+	path = mail-watcher
+	url = https://github.com/nlink-jp/mail-watcher.git
