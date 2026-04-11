@@ -34,3 +34,6 @@
 [submodule "mcp-skeleton"]
 	path = mcp-skeleton
 	url = https://github.com/nlink-jp/mcp-skeleton.git
+[submodule "agentic-web-search"]
+	path = agentic-web-search
+	url = https://github.com/nlink-jp/agentic-web-search.git
