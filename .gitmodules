@@ -37,3 +37,6 @@
 [submodule "agentic-web-search"]
 	path = agentic-web-search
 	url = https://github.com/nlink-jp/agentic-web-search.git
+[submodule "m5-vehicle-logger"]
+	path = m5-vehicle-logger
+	url = https://github.com/nlink-jp/m5-vehicle-logger.git
