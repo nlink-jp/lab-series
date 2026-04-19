@@ -43,3 +43,6 @@
 [submodule "m5-clock"]
 	path = m5-clock
 	url = https://github.com/nlink-jp/m5-clock.git
+[submodule "m5-data-receiver"]
+	path = m5-data-receiver
+	url = https://github.com/nlink-jp/m5-data-receiver.git
