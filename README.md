@@ -22,7 +22,7 @@ Experimental projects under active development by [nlink-jp](https://github.com/
 | [meeting-note](https://github.com/nlink-jp/meeting-note) | ~~Meeting minutes structuring tool — audio/transcript to structured JSON via Gemini, then compile to Markdown/HTML~~ **Archived** — superseded by the [meeting-notes](https://github.com/nlink-jp/meeting-notes) Claude Code Skill | Python |
 | [sai](https://github.com/nlink-jp/sai) | ~~Context-aware Slack bot with RAG memory and natural language command execution~~ **Archived** — no longer used or maintained | Python |
 | [slack-monitor](https://github.com/nlink-jp/slack-monitor) | Real-time Slack channel summarizer with local/cloud LLM and Textual TUI | Python |
-| [virtual-reviewer](https://github.com/nlink-jp/virtual-reviewer) | AI-powered security review system with LLM expert models — no RAG, UNIX philosophy | Python |
+| [virtual-reviewer](https://github.com/nlink-jp/virtual-reviewer) | ~~AI-powered security review system with LLM expert models — no RAG, UNIX philosophy~~ **Archived** — superseded by the [compliance-review](https://github.com/nlink-jp/compliance-review) Claude Code Skill | Python |
 | [workflow-builder](https://github.com/nlink-jp/workflow-builder) | ~~LLM-powered workflow builder — generates shell scripts from natural language using CLI tool registry~~ **Archived** (design phase only; never implemented) | — |
 
 ## Related Series

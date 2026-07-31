@@ -30,7 +30,7 @@ lab-series/
 ├── meeting-note/       github.com/nlink-jp/meeting-note       (Python — meeting minutes CLI; archived, superseded by the meeting-notes skill)
 ├── sai/                github.com/nlink-jp/sai                (Python — context-aware Slack bot; archived)
 ├── slack-monitor/      github.com/nlink-jp/slack-monitor      (Python — Slack channel summarizer)
-├── virtual-reviewer/   github.com/nlink-jp/virtual-reviewer   (Python — AI security review, LLM experts)
+├── virtual-reviewer/   github.com/nlink-jp/virtual-reviewer   (Python — AI security review, LLM experts; archived → compliance-review skill)
 └── workflow-builder/   github.com/nlink-jp/workflow-builder   (— — LLM workflow builder; archived, design phase only)
 ```
 
