@@ -16,14 +16,22 @@ Experimental projects under active development. APIs and interfaces may change w
 
 ```
 lab-series/
-├── llm-othello/   github.com/nlink-jp/llm-othello   (Go — Othello vs local LLM)
-├── log-analyzer/  github.com/nlink-jp/log-analyzer   (Go — log analysis tool; archived)
-├── mail-analyzer/ github.com/nlink-jp/mail-analyzer  (Go — mail analysis)
-├── magi-system/   github.com/nlink-jp/magi-system    (Python — multi-agent discussion v1; archived)
-├── magi-system2/  github.com/nlink-jp/magi-system2   (Python — multi-persona discussion v2, Gemini; archived)
-├── sai/               github.com/nlink-jp/sai               (Python — context-aware Slack bot; archived)
-├── slack-monitor/     github.com/nlink-jp/slack-monitor    (Python — Slack channel summarizer)
-└── virtual-reviewer/  github.com/nlink-jp/virtual-reviewer (Python — AI security review, LLM experts)
+├── agent-skeleton/     github.com/nlink-jp/agent-skeleton     (Python — autonomous agent skeleton POC)
+├── agentic-web-search/ github.com/nlink-jp/agentic-web-search (Go — agentic web search; frozen, search API ToS concerns)
+├── llm-othello/        github.com/nlink-jp/llm-othello        (Go — Othello vs local LLM)
+├── log-analyzer/       github.com/nlink-jp/log-analyzer       (Go — log analysis tool; archived)
+├── m5-clock/           github.com/nlink-jp/m5-clock           (C++ — M5Stack Core2 NTP clock)
+├── m5-data-receiver/   github.com/nlink-jp/m5-data-receiver   (Bash/CFn — serverless backend for m5-vehicle-logger)
+├── m5-vehicle-logger/  github.com/nlink-jp/m5-vehicle-logger  (C++ — M5Stack vehicle data logger)
+├── magi-system/        github.com/nlink-jp/magi-system        (Python — multi-agent discussion v1; archived)
+├── magi-system2/       github.com/nlink-jp/magi-system2       (Python — multi-persona discussion v2, Gemini; archived)
+├── mail-watcher/       github.com/nlink-jp/mail-watcher       (Bash — mail monitoring workflow; archived)
+├── mcp-skeleton/       github.com/nlink-jp/mcp-skeleton       (Python — MCP learning skeleton)
+├── meeting-note/       github.com/nlink-jp/meeting-note       (Python — meeting minutes CLI; archived, superseded by the meeting-notes skill)
+├── sai/                github.com/nlink-jp/sai                (Python — context-aware Slack bot; archived)
+├── slack-monitor/      github.com/nlink-jp/slack-monitor      (Python — Slack channel summarizer)
+├── virtual-reviewer/   github.com/nlink-jp/virtual-reviewer   (Python — AI security review, LLM experts)
+└── workflow-builder/   github.com/nlink-jp/workflow-builder   (— — LLM workflow builder; archived, design phase only)
 ```
 
 ## Release checklist
