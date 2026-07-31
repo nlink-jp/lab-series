@@ -17,11 +17,11 @@ Experimental projects under active development. APIs and interfaces may change w
 ```
 lab-series/
 ├── llm-othello/   github.com/nlink-jp/llm-othello   (Go — Othello vs local LLM)
-├── log-analyzer/  github.com/nlink-jp/log-analyzer   (Go — log analysis tool)
+├── log-analyzer/  github.com/nlink-jp/log-analyzer   (Go — log analysis tool; archived)
 ├── mail-analyzer/ github.com/nlink-jp/mail-analyzer  (Go — mail analysis)
-├── magi-system/   github.com/nlink-jp/magi-system    (Python — multi-agent discussion v1)
-├── magi-system2/  github.com/nlink-jp/magi-system2   (Python — multi-persona discussion v2, Gemini)
-├── sai/               github.com/nlink-jp/sai               (Python — context-aware Slack bot)
+├── magi-system/   github.com/nlink-jp/magi-system    (Python — multi-agent discussion v1; archived)
+├── magi-system2/  github.com/nlink-jp/magi-system2   (Python — multi-persona discussion v2, Gemini; archived)
+├── sai/               github.com/nlink-jp/sai               (Python — context-aware Slack bot; archived)
 ├── slack-monitor/     github.com/nlink-jp/slack-monitor    (Python — Slack channel summarizer)
 └── virtual-reviewer/  github.com/nlink-jp/virtual-reviewer (Python — AI security review, LLM experts)
 ```
