@@ -19,7 +19,7 @@ Experimental projects under active development by [nlink-jp](https://github.com/
 | [magi-system2](https://github.com/nlink-jp/magi-system2) | Multi-persona AI discussion with dynamic persona generation, dual memory, and adaptive facilitation via Gemini | Python |
 | [mail-watcher](https://github.com/nlink-jp/mail-watcher) | Mail monitoring workflow — watches for incoming eml/msg files, analyzes with LLM, and posts Slack notifications | Bash |
 | [mcp-skeleton](https://github.com/nlink-jp/mcp-skeleton) | MCP server skeleton — raw JSON-RPC 2.0 over stdio/SSE with API key auth, for learning MCP internals | Python |
-| [meeting-note](https://github.com/nlink-jp/meeting-note) | Meeting minutes structuring tool — audio/transcript to structured JSON via Gemini, then compile to Markdown/HTML | Python |
+| [meeting-note](https://github.com/nlink-jp/meeting-note) | ~~Meeting minutes structuring tool — audio/transcript to structured JSON via Gemini, then compile to Markdown/HTML~~ **Archived** — superseded by the [meeting-notes](https://github.com/nlink-jp/meeting-notes) Claude Code Skill | Python |
 | [sai](https://github.com/nlink-jp/sai) | Context-aware Slack bot with RAG memory and natural language command execution | Python |
 | [slack-monitor](https://github.com/nlink-jp/slack-monitor) | Real-time Slack channel summarizer with local/cloud LLM and Textual TUI | Python |
 | [virtual-reviewer](https://github.com/nlink-jp/virtual-reviewer) | AI-powered security review system with LLM expert models — no RAG, UNIX philosophy | Python |
