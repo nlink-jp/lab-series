@@ -16,7 +16,7 @@ Experimental projects under active development. APIs and interfaces may change w
 
 ```
 lab-series/
-├── agent-skeleton/     github.com/nlink-jp/agent-skeleton     (Python — autonomous agent skeleton POC)
+├── agent-skeleton/     github.com/nlink-jp/agent-skeleton     (Python — autonomous agent skeleton POC; archived)
 ├── agentic-web-search/ github.com/nlink-jp/agentic-web-search (Go — agentic web search; frozen, search API ToS concerns)
 ├── llm-othello/        github.com/nlink-jp/llm-othello        (Go — Othello vs local LLM)
 ├── log-analyzer/       github.com/nlink-jp/log-analyzer       (Go — log analysis tool; archived)
@@ -26,7 +26,7 @@ lab-series/
 ├── magi-system/        github.com/nlink-jp/magi-system        (Python — multi-agent discussion v1; archived)
 ├── magi-system2/       github.com/nlink-jp/magi-system2       (Python — multi-persona discussion v2, Gemini; archived)
 ├── mail-watcher/       github.com/nlink-jp/mail-watcher       (Bash — mail monitoring workflow; archived)
-├── mcp-skeleton/       github.com/nlink-jp/mcp-skeleton       (Python — MCP learning skeleton)
+├── mcp-skeleton/       github.com/nlink-jp/mcp-skeleton       (Python — MCP learning skeleton; archived)
 ├── meeting-note/       github.com/nlink-jp/meeting-note       (Python — meeting minutes CLI; archived, superseded by the meeting-notes skill)
 ├── sai/                github.com/nlink-jp/sai                (Python — context-aware Slack bot; archived)
 ├── slack-monitor/      github.com/nlink-jp/slack-monitor      (Python — Slack channel summarizer)
