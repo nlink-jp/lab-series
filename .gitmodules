@@ -46,6 +46,3 @@
 [submodule "m5-data-receiver"]
 	path = m5-data-receiver
 	url = https://github.com/nlink-jp/m5-data-receiver.git
-[submodule "gem-agent"]
-	path = gem-agent
-	url = https://github.com/nlink-jp/gem-agent.git
