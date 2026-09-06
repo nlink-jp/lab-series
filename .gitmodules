@@ -1,42 +1,9 @@
-[submodule "magi-system"]
-	path = magi-system
-	url = https://github.com/nlink-jp/magi-system.git
-[submodule "sai"]
-	path = sai
-	url = https://github.com/nlink-jp/sai.git
 [submodule "slack-monitor"]
 	path = slack-monitor
 	url = https://github.com/nlink-jp/slack-monitor.git
 [submodule "llm-othello"]
 	path = llm-othello
 	url = https://github.com/nlink-jp/llm-othello.git
-[submodule "log-analyzer"]
-	path = log-analyzer
-	url = https://github.com/nlink-jp/log-analyzer.git
-[submodule "workflow-builder"]
-	path = workflow-builder
-	url = https://github.com/nlink-jp/workflow-builder.git
-[submodule "magi-system2"]
-	path = magi-system2
-	url = https://github.com/nlink-jp/magi-system2.git
-[submodule "virtual-reviewer"]
-	path = virtual-reviewer
-	url = https://github.com/nlink-jp/virtual-reviewer.git
-[submodule "meeting-note"]
-	path = meeting-note
-	url = https://github.com/nlink-jp/meeting-note.git
-[submodule "mail-watcher"]
-	path = mail-watcher
-	url = https://github.com/nlink-jp/mail-watcher.git
-[submodule "agent-skeleton"]
-	path = agent-skeleton
-	url = https://github.com/nlink-jp/agent-skeleton.git
-[submodule "mcp-skeleton"]
-	path = mcp-skeleton
-	url = https://github.com/nlink-jp/mcp-skeleton.git
-[submodule "agentic-web-search"]
-	path = agentic-web-search
-	url = https://github.com/nlink-jp/agentic-web-search.git
 [submodule "m5-vehicle-logger"]
 	path = m5-vehicle-logger
 	url = https://github.com/nlink-jp/m5-vehicle-logger.git
