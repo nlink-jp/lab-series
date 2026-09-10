@@ -13,3 +13,6 @@
 [submodule "m5-data-receiver"]
 	path = m5-data-receiver
 	url = https://github.com/nlink-jp/m5-data-receiver.git
+[submodule "lagent"]
+	path = lagent
+	url = https://github.com/nlink-jp/lagent.git
