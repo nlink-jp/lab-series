@@ -8,6 +8,7 @@ Experimental projects under active development by [nlink-jp](https://github.com/
 
 | Project | Description | Language |
 |---|---|---|
+| [lagent](https://github.com/nlink-jp/lagent) | Sandboxed coding-agent runtime on a local LLM (LM Studio / Ollama, OpenAI-compatible API) — gem-agent's design as a separate product line | Go |
 | [llm-othello](https://github.com/nlink-jp/llm-othello) | Browser-based Othello against a local LLM — server-side move generation via OpenAI-compatible API | Go |
 | [m5-clock](https://github.com/nlink-jp/m5-clock) | NTP-synchronized digital clock for M5Stack Core2 — night mode, RTC backup, SD card config | C++ |
 | [m5-data-receiver](https://github.com/nlink-jp/m5-data-receiver) | Serverless AWS backend for m5-vehicle-logger — API Gateway + Lambda + S3 with deploy/destroy scripts | Bash/CFn |

@@ -16,6 +16,7 @@ Experimental projects under active development. APIs and interfaces may change w
 
 ```
 lab-series/
+├── lagent/             github.com/nlink-jp/lagent             (Go — coding-agent runtime on a local LLM)
 ├── llm-othello/        github.com/nlink-jp/llm-othello        (Go — Othello vs local LLM)
 ├── m5-clock/           github.com/nlink-jp/m5-clock           (C++ — M5Stack Core2 NTP clock)
 ├── m5-data-receiver/   github.com/nlink-jp/m5-data-receiver   (Bash/CFn — serverless backend for m5-vehicle-logger)
