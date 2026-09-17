@@ -16,3 +16,6 @@
 [submodule "lagent"]
 	path = lagent
 	url = https://github.com/nlink-jp/lagent.git
+[submodule "spice-client"]
+	path = spice-client
+	url = https://github.com/nlink-jp/spice-client.git

@@ -14,6 +14,7 @@ Experimental projects under active development by [nlink-jp](https://github.com/
 | [m5-data-receiver](https://github.com/nlink-jp/m5-data-receiver) | Serverless AWS backend for m5-vehicle-logger — API Gateway + Lambda + S3 with deploy/destroy scripts | Bash/CFn |
 | [m5-vehicle-logger](https://github.com/nlink-jp/m5-vehicle-logger) | Vehicle data logger for M5Stack — GNSS + 9-axis IMU + barometer, 3-page display, gravity compensation | C++ |
 | [slack-monitor](https://github.com/nlink-jp/slack-monitor) | Real-time Slack channel summarizer with local/cloud LLM and Textual TUI | Python |
+| [spice-client](https://github.com/nlink-jp/spice-client) | Native macOS SPICE client for QEMU and Ravada virtual desktops — .vv files and an HTTPS Ravada portal behind a native connection confirmation, clipboard off by default | Swift |
 
 > **Archived projects moved:** projects archived out of this series now live
 > in [archive-series](https://github.com/nlink-jp/archive-series) under `lab/`.
