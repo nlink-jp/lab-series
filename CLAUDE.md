@@ -14,15 +14,18 @@
 
 Experimental projects under active development. APIs and interfaces may change without notice.
 
-```
-lab-series/
-├── lagent/             github.com/nlink-jp/lagent             (Go — coding-agent runtime on a local LLM)
-├── llm-othello/        github.com/nlink-jp/llm-othello        (Go — Othello vs local LLM)
-├── m5-clock/           github.com/nlink-jp/m5-clock           (C++ — M5Stack Core2 NTP clock)
-├── m5-data-receiver/   github.com/nlink-jp/m5-data-receiver   (Bash/CFn — serverless backend for m5-vehicle-logger)
-├── m5-vehicle-logger/  github.com/nlink-jp/m5-vehicle-logger  (C++ — M5Stack vehicle data logger)
-└── slack-monitor/      github.com/nlink-jp/slack-monitor      (Python — Slack channel summarizer)
-```
+The catalog — one row per submodule — is [README.md](README.md) (ADR-005);
+do not duplicate it here. A second list is a list that drifts: `check-org.sh`
+holds the README to the submodules and nothing held this file, which had
+fallen behind by the time anyone compared them.
+
+Per-tool build quirks:
+
+- **C++ sketch, Arduino IDE (M5Stack; no make):** m5-clock, m5-vehicle-logger
+- **Bash + CloudFormation:** m5-data-receiver
+- **Python/uv (no make):** slack-monitor
+- **Swift GUI with a vendored dependency (`make verify-vendor`):** spice-client
+- **macOS-only (sandbox-exec), darwin/arm64 asset only:** lagent
 
 ## Release checklist
 
