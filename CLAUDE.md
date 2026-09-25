@@ -25,7 +25,6 @@ Per-tool build quirks:
 - **Bash + CloudFormation:** m5-data-receiver
 - **Python/uv (no make):** slack-monitor
 - **Swift GUI with a vendored dependency (`make verify-vendor`):** spice-client
-- **macOS-only (sandbox-exec), darwin/arm64 asset only:** lagent
 
 ## Release checklist
 
