@@ -16,3 +16,6 @@
 [submodule "spice-client"]
 	path = spice-client
 	url = https://github.com/nlink-jp/spice-client.git
+[submodule "m5-system-panel"]
+	path = m5-system-panel
+	url = https://github.com/nlink-jp/m5-system-panel.git
