@@ -23,7 +23,7 @@ Per-tool build quirks:
 
 - **C++ sketch, Arduino IDE (M5Stack; no make):** m5-clock, m5-vehicle-logger
 - **Bash + CloudFormation:** m5-data-receiver
-- **Python/uv (no make):** slack-monitor
+- **Python/uv (make for test / vuln, no build; release has no assets):** slack-monitor
 - **Swift GUI with a vendored dependency (`make verify-vendor`):** spice-client
 
 ## Release checklist
